@@ -22,6 +22,6 @@ nos repositorios, faz modificações, poderão ser distribuidos para os desenvol
 - git status - verifica o status do diretorio atual
 - git push - envia os arquivos para o servidor github
 - git pull - pega os arquivos adicionados direto no github
-
+- git clone http://github
 
 
