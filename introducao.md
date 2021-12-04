@@ -12,7 +12,16 @@ nos repositorios, faz modificações, poderão ser distribuidos para os desenvol
 
 
 
+## Comandos Básicos
 
+- git init - Cria um repositório para adicionar arquivos
+- git add . - adiciona os arquivos em geral
+- git commit -m - adiciona a mensagem do arquivo
+- git commit a -m adiciona mensagem  do arquvi em geral
+- git remote add origin "servidor" - adiciona o servidor
+- git status - verifica o status do diretorio atual
+- git push - envia os arquivos para o servidor github
+- git pull - pega os arquivos adicionados direto no github
 
 
 
