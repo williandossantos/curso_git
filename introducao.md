@@ -1,7 +1,7 @@
 
 # Introdução ao Git e GitHub
 
-## O que é controle de versão
+## O que é controle de versão  
 
 * Gerencia condigos fontes e verifica alterações dos códigos
 nos repositorios, faz modificações, poderão ser distribuidos para os desenvolvedores uma copia para que cada um possa ser utilizado.
