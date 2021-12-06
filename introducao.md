@@ -25,3 +25,10 @@ nos repositorios, faz modificações, poderão ser distribuidos para os desenvol
 - git clone http://github
 
 
+## Branches
+
+- git branch - Inicia a branch
+- git branch ["nome da branch"] - adiciona o nome da branch
+- -d ou --delete - Deleta a branch
+
+
